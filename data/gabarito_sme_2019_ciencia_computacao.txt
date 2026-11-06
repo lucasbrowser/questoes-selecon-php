@@ -1,0 +1,6 @@
+PREFEITURA MUNICIPAL DE CUIABÁ - MT
+EDITAL 002/PMC/SME/2019
+GABARITO OFICIAL (transcrito do PDF) — questões 27 e 36 anuladas
+
+CIÊNCIA DA COMPUTAÇÃO
+01: D   02: B   03: C   04: A   05: C   06: B   07: D   08: D   09: C   10: C   11: A   12: B   13: C   14: C   15: B   16: C   17: D   18: B   19: B   20: D   21: A   22: B   23: D   24: D   25: C   26: B   27: X   28: D   29: A   30: B   31: A   32: C   33: D   34: C   35: B   36: X   37: A   38: D   39: C   40: B   41: B   42: D   43: A   44: C   45: C   46: B   47: D   48: B   49: A   50: C   51: A   52: C   53: A   54: D   55: C   56: B   57: B   58: D   59: D   60: A   61: C   62: D   63: C   64: A   65: D   66: D   67: B   68: C   69: B   70: D
